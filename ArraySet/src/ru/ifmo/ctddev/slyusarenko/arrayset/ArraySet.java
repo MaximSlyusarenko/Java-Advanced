@@ -87,7 +87,7 @@ public class ArraySet<E> extends AbstractSet<E> implements NavigableSet <E>  {
                         Comparable tmp2 = (Comparable) o2;
                         return tmp1.compareTo(tmp2);
                     } else {
-                        return 0;
+                        throw new UnsupportedOperationException("Not given comparator and not default comparator because type not extends Comparable");
                     }
                 }
             };
