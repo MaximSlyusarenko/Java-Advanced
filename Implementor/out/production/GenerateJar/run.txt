@@ -1,0 +1,2 @@
+java -jar test.jar className - to generate .java file with implementation of class className
+java -jar test.jar -jar className - to generate .jar file with implementation of class className

@@ -1,0 +1,1 @@
+jar cfm test.jar MANIFEST.MF ru/ifmo/ctddev/slyusarenko/implementor/*.class info/kgeorgiy/java/advanced/implementor/*.class

@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: Users/maksim/Jars/ImplementorTest.jar
+Main-Class: ru.ifmo.ctddev.slyusarenko.implementor.Main
+

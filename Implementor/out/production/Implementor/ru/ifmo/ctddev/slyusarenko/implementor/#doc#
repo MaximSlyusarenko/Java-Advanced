@@ -1,0 +1,2 @@
+export CLASSPATH=$CLASSPATH:/Users/maksim/Jars/ImplementorTest.jar
+javadoc -private ru/ifmo.ctddev/slyusarenko/implementor/*.java info/kgeorgiy/java/advanced/implementor/*.java -linkoffline http://docs.oracle.com/javase/7/docs/api/ http://docs.oracle.com/javase/7/docs/api/
