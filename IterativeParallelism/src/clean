@@ -1,0 +1,5 @@
+rm -f *.html
+rm -f *.js
+rm -f package-list
+rm -f stylesheet.css
+rm -f ru/ifmo/ctddev/slyusarenko/iterativeparallelism/*.html

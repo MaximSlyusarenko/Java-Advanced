@@ -1,0 +1,2 @@
+export CLASSPATH=$CLASSPATH:/Users/maksim/Jars/IterativeParallelismTest.jar
+javadoc -public ru/ifmo/ctddev/slyusarenko/iterativeparallelism/*.java -linkoffline http://java.sun.com/javase/7/docs/api/ http://java.sun.com/javase/7/docs/api/
