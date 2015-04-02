@@ -3,3 +3,4 @@ rm -f *.js
 rm -f package-list
 rm -f stylesheet.css
 rm -r ru
+rm -f info/kgeorgiy/java/advanced/implementor/*.html
