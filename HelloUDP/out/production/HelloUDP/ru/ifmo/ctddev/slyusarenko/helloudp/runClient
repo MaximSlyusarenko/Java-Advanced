@@ -1,0 +1,5 @@
+export CLASSPATH=$CLASSPATH:/Users/maksim/Jars/HelloUDPTest.jar
+export CLASSPATH=$CLASSPATH:/Users/maksim/Jars/junit-4.11.jar
+export CLASSPATH=$CLASSPATH:/Users/maksim/Jars/hamcrest-core-1.3.jar
+export CLASSPATH=$CLASSPATH:/Users/maksim/Jars/quickcheck-0.6.jar
+java ru.ifmo.ctddev.slyusarenko.helludp.MainClient "localhost" "8888" "something" "1" "1"
